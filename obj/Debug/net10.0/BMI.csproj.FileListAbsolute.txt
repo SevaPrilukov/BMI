@@ -1,0 +1,14 @@
+/Users/sevaprilukov/BMI/bin/Debug/net10.0/BMI
+/Users/sevaprilukov/BMI/bin/Debug/net10.0/BMI.deps.json
+/Users/sevaprilukov/BMI/bin/Debug/net10.0/BMI.runtimeconfig.json
+/Users/sevaprilukov/BMI/bin/Debug/net10.0/BMI.dll
+/Users/sevaprilukov/BMI/bin/Debug/net10.0/BMI.pdb
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.AssemblyInfoInputs.cache
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.AssemblyInfo.cs
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.csproj.CoreCompileInputs.cache
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.dll
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/refint/BMI.dll
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.pdb
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/BMI.genruntimeconfig.cache
+/Users/sevaprilukov/BMI/obj/Debug/net10.0/ref/BMI.dll
